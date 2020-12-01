@@ -1,0 +1,16 @@
+[submodule "apcs_RPSLS_ant"]
+	url = ssh://git@github.com/ishan-apcs/apcs_RPSLS_ant.git
+[submodule "apcs_Blackjack"]
+	url = ssh://git@github.com/ishan-apcs/apcs_Blackjack.git
+[submodule "apcs_Hangman"]
+	url = ssh://git@github.com/ishan-apcs/apcs_Hangman.git
+[submodule "apcs_MakingChange"]
+	url = ssh://git@github.com/ishan-apcs/apcs_MakingChange.git
+[submodule "apcs_Pacman"]
+	url = ssh://git@github.com/ishan-apcs/apcs_Pacman.git
+[submodule "apcs_RPSLS_maven"]
+	url = ssh://git@github.com/ishan-apcs/apcs_RPSLS_maven.git
+[submodule "apcs_TicTacToe"]
+	url = ssh://git@github.com/ishan-apcs/apcs_TicTacToe.git
+[submodule "apcs_notes_201920"]
+	url = ssh://git@github.com/ishan-apcs/apcs_notes_201920.git
